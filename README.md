@@ -1,4 +1,4 @@
-# Development-of-a-Dna-barcode-for-species-identification-of-tuna
+# Development-of-a-DNA-barcode-for-species-identification-of-tuna
 This repository contains a python script for barcode gap plotting, as well as an example input-file for the script.
 The script was developed for the student thesis "Development of a DNA barcode for species identification of tuna", which was a project I was a part of.
 This project corresponded to my bachelor thesis for the Molecular Biotechnology Engineering Programme at Uppsala university.
